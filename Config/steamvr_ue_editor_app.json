@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.cobeblocks-23901901.unrealeditor.exe",
+			"app_key": "application.generated.ue.virtual-reality-programming-paradise-23901901.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "C:/Users/SDI/Documents/zara/Hons Codeblocks V5.1/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "CobeBlocks-23901901 [UE Editor]"
+					"name": "Virtual Reality Programming Paradise-23901901 [UE Editor]"
 				}
 			}
 		}
